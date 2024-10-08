@@ -1,0 +1,13 @@
+<svg width="68.000000" height="71.000000" viewBox="0 0 68 71" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip14_163">
+			<rect id="Frame 25" width="68.000000" height="71.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip14_163)">
+		<path id="Subtract" d="M-1572 0L328 0C333.523 0 338 4.47714 338 10L338 95C337.475 81.6565 326.472 71 313 71L54.519 71C49.4554 71 45.2964 67.1688 43.8125 62.3276C37.5432 41.8731 18.5085 27 -4 27L-1031 27C-1053.51 27 -1072.54 41.8731 -1078.81 62.3276C-1080.3 67.1689 -1084.46 71 -1089.52 71L-1557 71C-1570.47 71 -1581.46 81.6565 -1581.98 95L-1582 10.0021C-1582 4.47842 -1577.52 0 -1572 0Z" clip-rule="evenodd" fill="#7027E2" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
